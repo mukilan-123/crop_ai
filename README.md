@@ -1,4 +1,4 @@
-Here is your complete project description following all 6 sections — written specifically for your full-stack Gemini-powered version:
+Here is the complete project description following all 6 sections:
 
 1. Problem Statement
 Real-World Problem:
